@@ -1,8 +1,8 @@
 # 🍽️ SARAP Likha Kiosk
 
-**SARAP Likha Kiosk** is a modern and culturally inspired **Filipino food ordering kiosk** designed to streamline the customer experience while celebrating local cuisine. Focused on traditional **breakfast and dinner** dishes, this smart kiosk provides an intuitive, fast, and accessible way to place orders — whether dining in or taking out.
+**SARAP Likha Kiosk** is a modern and culturally inspired **Filipino food ordering kiosk** designed to streamline the customer experience while celebrating local cuisine. Focused on traditional **breakfast, lunch and dinner** dishes, this smart kiosk provides an intuitive, fast, and accessible way to place orders — whether dining in or taking out.
 
-With a beautiful, interactive interface, sARAP Likha enhances food service operations while preserving Filipino culinary heritage.
+With a beautiful, interactive interface, SARAP Likha enhances food service operations while preserving Filipino culinary heritage.
 
 ---
 
