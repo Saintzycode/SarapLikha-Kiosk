@@ -36,9 +36,8 @@ The design includes Filipino-inspired visuals and colors that highlight local id
 
 ## 🛠️ Built With
 
-- Java / JavaFX *(or Flutter depending on platform)*
-- Supabase / Firebase / MySQL *(for database integration)*
-- QR Code Generator API / Library
+- Full Java/Java Swing*
+- QR Code Gcash
 - Responsive and Touch-Friendly GUI
 - Receipt and Discount Logic Handling
 
