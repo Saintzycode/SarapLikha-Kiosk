@@ -1,27 +1,68 @@
-##🍽️ SARAP Likha Kiosk
-SARAP Likha Kiosk is a smart, interactive digital kiosk designed to showcase and celebrate the rich flavors of Filipino cuisine, with a special focus on traditional breakfast, lunch and dinner dishes.
+# 🍽️ SARAP Likha Kiosk
 
-This project combines culture and technology to create an engaging experience for users to explore the stories, ingredients, and origins behind the meals that are part of every Filipino home.
+**SARAP Likha Kiosk** is a modern and culturally inspired **Filipino food ordering kiosk** designed to streamline the customer experience while celebrating local cuisine. Focused on traditional **breakfast and dinner** dishes, this smart kiosk provides an intuitive, fast, and accessible way to place orders — whether dining in or taking out.
 
-📌 Project Overview
-The SARAP Likha Kiosk allows users to:
+With a beautiful, interactive interface, sARAP Likha enhances food service operations while preserving Filipino culinary heritage.
 
-🍳 Browse a curated menu of classic Filipino breakfast and dinner dishes
+---
 
-📸 View vibrant images of the meals
+## 📌 Features
 
-🖥️ Use a simple touchscreen interface designed for kiosk displays
+✅ **Dine-In and Take-Out Options**  
+Users can choose between **Dine In** or **Take Out** on the welcome screen. Each path leads to a user-friendly ordering experience.
 
-Whether you're craving a comforting silog meal in the morning or a flavorful ulam for dinner, the kiosk introduces users to dishes that are both nostalgic and culturally significant.
+✅ **QR Code-Based Ordering**  
+Each transaction generates a **QR code** that customers can scan to track their order or view their receipt.
 
-🔧 Built With
-Java / Java Swing
-GUI designed for touchscreen interaction
-Custom design for Filipino cultural themes
+✅ **Digital Receipt System**  
+After confirming an order, the system provides a **digital receipt** — efficient, paperless, and eco-friendly.
 
-🎯 Project Goals
-Promote awareness and appreciation of Filipino breakfast, lunch and dinner cuisine
+✅ **Discount Eligibility**  
+Automatic discount support for:
+- 🧓 **Senior Citizens**
+- ♿ **Persons with Disabilities (PWD)**
+- 🤰 **Pregnant Customers**
 
-Provide an educational tool for students, tourists, and food lovers
+✅ **Welcome Page Image Slider**  
+The landing screen features a **dynamic image slider** showcasing Filipino dishes and welcoming visuals.
 
-Create a platform that’s both functional and culturally meaningful
+✅ **Interactive Ordering System**  
+Customers can select dishes, view images and details, add them to cart, and confirm their orders with ease.
+
+✅ **Culturally Themed UI**  
+The design includes Filipino-inspired visuals and colors that highlight local identity and pride.
+
+---
+
+## 🛠️ Built With
+
+- Java / JavaFX *(or Flutter depending on platform)*
+- Supabase / Firebase / MySQL *(for database integration)*
+- QR Code Generator API / Library
+- Responsive and Touch-Friendly GUI
+- Receipt and Discount Logic Handling
+
+---
+
+## 🎯 Project Goals
+
+- 🥘 Promote and preserve Filipino food culture  
+- 💻 Provide a seamless self-service ordering system  
+- ⚙️ Improve order accuracy and reduce wait times  
+- 🤝 Offer inclusive services with built-in discounts  
+
+---
+
+## 👥 Developers
+
+Developed by:  
+**Saintzycode**
+**Arkyong**
+**Jerome**
+Universidad De Dagupan – School of Information Technology Education  
+Computer Science Students  
+
+---
+
+📫 *Feel free to fork, clone, or contribute to improve this project. For collaboration, contact us through GitHub!*
+
