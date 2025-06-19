@@ -1,4 +1,4 @@
-🍽️ SARAP Likha Kiosk
+##🍽️ SARAP Likha Kiosk
 SARAP Likha Kiosk is a smart, interactive digital kiosk designed to showcase and celebrate the rich flavors of Filipino cuisine, with a special focus on traditional breakfast, lunch and dinner dishes.
 
 This project combines culture and technology to create an engaging experience for users to explore the stories, ingredients, and origins behind the meals that are part of every Filipino home.
